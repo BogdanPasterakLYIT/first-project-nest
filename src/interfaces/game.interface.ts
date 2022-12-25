@@ -1,3 +1,3 @@
 export interface Game {
-  arr: string[];
+  board: string[];
 }
